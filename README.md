@@ -1,9 +1,11 @@
 # advent-of-code-2020
 
-p1 - first part in xls, second one in python
-p2 - python
-p3,4 - c++
-p5,6,7,8 - kotlin
+## Conclusions
 
-rust?
-c
+ * Functional approach wins in speed and correctness. So many little bugs due to explicit iterations
+ * `C++`` has poor data massaging
+ * `Kotlin` is lacking the deep copy of C++ when it comes to mutable collections
+ * `Rust` has a steep learning curve, does not look fast to develop
+ * `Python` Maybe good but the lack of types is disturbing
+ * `C` - maybe someday, the lack of any data structures makes things atrocious
+ * `XLS` - can be good
