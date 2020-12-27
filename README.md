@@ -3,7 +3,7 @@
 ## Conclusions
 
  * Functional approach wins in speed and correctness. So many little bugs due to explicit iterations and more code to write to create new collections
- * `C++`` has poor data massaging
+ * `C++` has poor data massaging due to the purpose of using as little memory as possible. This means more code is needed to do the data massage
  * `Kotlin` 
    * lacking the deep copy similar to C++ when it comes to mutable collections so its not easy to work with the mutable collections
    * generally fast compiler and code analysis in IDE
