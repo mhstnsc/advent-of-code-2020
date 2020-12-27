@@ -2,6 +2,8 @@
 
 ## Conclusions
 
+The following conclusions are in the scope of the competition which favors speed coding over other aspects. 
+
  * Functional approach wins in speed and correctness. So many little bugs due to explicit iterations and more code to write to create new collections
  * `C++` has poor data massaging due to the purpose of using as little memory as possible. This means more code is needed to do the data massage
  * `Kotlin` 
