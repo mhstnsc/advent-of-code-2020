@@ -1,0 +1,6 @@
+--2020-12-16 22:20:15--  https://adventofcode.com/2020/day/16/input
+Resolving adventofcode.com (adventofcode.com)... 52.87.56.173, 54.82.137.38
+Connecting to adventofcode.com (adventofcode.com)|52.87.56.173|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-12-16 22:20:17 ERROR 400: Bad Request.
+
