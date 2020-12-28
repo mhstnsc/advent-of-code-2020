@@ -16,7 +16,6 @@ The following conclusions are in the scope of the competition which favors speed
    * weird compiler bugs when data classes were nested with function
    * very easy type extension, loved it
    * powerfull but useless iteration breaking (e.g returning from within lambda functions or breaking two levels of loops)
-   * breakab
  * `Rust` 
    * a steep learning curve, does not look fast to develop 
    * the binary packages are cool
