@@ -15,4 +15,4 @@ The following conclusions are in the scope of the competition which favors speed
    * if this is alternative to C++, not sure
  * `Python` Maybe good but the lack of type safety
  * `C` - maybe someday, the lack of any data structures makes things atrocious
- * `XLS` - can be good
+ * `XLS` - can be a fun alternative :)
